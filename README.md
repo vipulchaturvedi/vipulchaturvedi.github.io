@@ -1,2 +1,2 @@
 # vipulchaturvedi.github.io
-Personal Site
+repo for personal site
