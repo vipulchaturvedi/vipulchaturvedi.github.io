@@ -1,2 +1,3 @@
 # vipulchaturvedi.github.io
-repo for personal site
+
+Permanently moved to https://vipulchaturvedi.com/
