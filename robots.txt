@@ -1,3 +1,0 @@
-Sitemap: https://vipulchaturvedi.com/sitemap.xml
-User-Agent: *
-Disallow:
